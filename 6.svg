@@ -20,9 +20,8 @@
     }
   }
 </style>
-<script><![CDATA[
-window.addEventListener('DOMContentLoaded', () => {
+<script type="text/javascript"><![CDATA[
   document.querySelector("#path2").style.fill = "pink";
-});]]>
+]]>
 </script>
 </svg>

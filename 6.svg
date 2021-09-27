@@ -21,8 +21,8 @@
   }
 </style>
 <script type="text/javascript"><![CDATA[
-  document.getElementById("path2").
-  setAttribute('fill', 'pink');
+  (() => {document.getElementById("path2").
+  setAttribute('fill', 'pink');})()
 ]]>
 </script>
 </svg>

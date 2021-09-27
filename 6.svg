@@ -8,6 +8,15 @@
 <style> 
   #path2 {
     fill: white;
+    animation: rotation 2s infinite;
+  }
+  @keyframes rotation {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(90deg);
+    }
   }
 </style>
 </svg>

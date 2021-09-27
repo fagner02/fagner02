@@ -22,7 +22,8 @@
 </style>
 <script>
 window.addEventListener('DOMContentLoaded', () => {
-    document.querySelector("#path2").style.fill = "pink";
+   alert("g");
+ //document.querySelector("#path2").style.fill = "pink";
 });
 </script>
 </svg>

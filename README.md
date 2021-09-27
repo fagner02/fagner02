@@ -1,4 +1,4 @@
 ## hi
 <div>
-  <img src="https://raw.githubusercontent.com/pmndrs/valtio/master/logo.svg"></img>
+  <img src="6.svg"></img>
 </div>

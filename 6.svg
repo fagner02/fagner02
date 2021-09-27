@@ -22,10 +22,8 @@
 </style>
 <script>
 window.addEventListener('DOMContentLoaded', () => {
-  setTimeout(() => {
     document.querySelector("#path2").
       style.fill = "pink";
-  }, 2000);
 });
 </script>
 </svg>

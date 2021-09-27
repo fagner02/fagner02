@@ -21,7 +21,7 @@
   }
 </style>
 <script type="text/javascript"><![CDATA[
-  document.querySelector("#path2").style.fill = "pink";
+  document.getElementById("path2").style.fill = "pink";
 ]]>
 </script>
 </svg>

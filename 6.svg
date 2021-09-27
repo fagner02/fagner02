@@ -8,7 +8,7 @@
 <style>
   #path2 {
     fill: white;
-    transition: fill;
+    transition: fill 1s;
     animation: rotation 2s infinite alternate;
   }
   @keyframes rotation {
@@ -22,8 +22,7 @@
 </style>
 <script>
 window.addEventListener('DOMContentLoaded', () => {
-    document.querySelector("#path2").
-      style.fill = "pink";
+    document.querySelector("#path2").style.fill = "pink";
 });
 </script>
 </svg>

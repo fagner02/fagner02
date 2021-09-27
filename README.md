@@ -1,4 +1,4 @@
 ## hi
 <div>
-  <img src=""></img>
+  <img src="omg.svg"></img>
 </div>

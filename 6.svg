@@ -5,9 +5,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:psvg="http://www.paintersvg.com/namespace.html" id="null"  width="559.369" height="793.6992" viewBox="0 0 559.369 793.6992">
 <defs></defs>
 <path id="path2" d=" M 225.0501,75.3476 C 154.8617,71.5516 88.3585,128.6649 84.2452,181.9434 77.1255,271.9683 122.4408,230.9821 125.8562,377.3183 117.4488,464.2818 252.5548,522.4796 302.0957,411.9579 341.3483,299.5015 389.2567,315.0888 391.9541,201.234 385.8265,127.9312 311.1251,77.5892 225.0501,75.3476 Z" style="fill:#0080FF;fill-opacity:1;stroke:#5F72B0;stroke-width:2;stroke-opacity:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:0;"/>
-<style>
-  #path2 {
-    fill: white;
-  }
-</style>
 </svg>

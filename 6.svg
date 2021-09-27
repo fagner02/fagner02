@@ -22,8 +22,7 @@
 </style>
 <script><![CDATA[
 window.addEventListener('DOMContentLoaded', () => {
-   alert("g");
- //document.querySelector("#path2").style.fill = "pink";
+  document.querySelector("#path2").style.fill = "pink";
 });]]>
 </script>
 </svg>

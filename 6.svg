@@ -23,7 +23,7 @@
 <script>
   setTimeout(() => {
     document.querySelector("#path2").
-      style.fill = pink;
+      style.fill = "pink";
   }, 2000);
 </script>
 </svg>

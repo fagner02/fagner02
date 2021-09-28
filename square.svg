@@ -12,7 +12,7 @@ id="null"  width="352" height="302">
  </style>
    <linearGradient id="gradient" x1="0" x2="0" y1="0" y2="1">
         <stop offset="0%" stop-color="#D88000"/>
-        <stop offset="50%" stop-color="#907818"/>
+        <stop offset="50%" stop-color="yellow"/>
         <stop offset="100%" stop-color="yellow"/>
    </linearGradient>
    <filter id="shadow">
@@ -120,7 +120,8 @@ y="calc(50% - 50px - 50px)"
   }
   #face {
     fill: url(#gradient);
-    stroke: #489880;
+    stroke-width: 120px;
+    stroke: #D88000;
   }
   #text {
     font-size: 30px;

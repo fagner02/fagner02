@@ -118,6 +118,7 @@ y="calc(50% - 50px - 60px)"
   }
   #face {
     fill: url(#gradient);
+    stroke: #489880;
   }
   #text {
     font-size: 30px;

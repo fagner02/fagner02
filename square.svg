@@ -65,7 +65,7 @@ y="calc(50% - 50px - 60px)"
     transform-origin: left;
     transform-box: content-box;
     transform-style: preserve-3d;
-    animation: smile 1s infinite linear;
+    animation: smile 5s infinite linear;
   }
   #smile {
     stroke: none;

@@ -105,6 +105,7 @@ y="calc(50% - 50px - 50px)"
   }
   
   #glass {
+    filter: url(#shadow);
     fill: none;
     stroke: none;
     stroke-width: 60px;
@@ -137,7 +138,7 @@ y="calc(50% - 50px - 50px)"
     font-size: 30px;
     font-weight: 900;
     fill: none;
-    
+    filter: url(#shadow1);
     stroke: white;
     stroke-width: 1px;
     stroke-dasharray: 100%;

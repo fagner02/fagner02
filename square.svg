@@ -62,9 +62,7 @@ y="calc(50% - 50px - 60px)"
     fill: none;
     stroke: white;
     stroke-width: 80px;
-    Çstroke-dasharray: 2500%;
-    Çstroke-dashoffset: 0;
-    transform-origin: bottom;
+    transform-origin: left;
     transform-box: content-box;
     transform-style: preserve-3d;
     animation: smile 1s infinite linear;
@@ -139,11 +137,9 @@ y="calc(50% - 50px - 60px)"
   @keyframes smile {
     0% {
       transform: rotateX(0deg);
-      fill: white;
     }
     100% {
       transform: rotateX(-90deg);
-      fill: white;
     }
   }
  </style>

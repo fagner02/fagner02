@@ -67,6 +67,8 @@ y="calc(50% - 50px - 60px)"
     stroke: white;
     fill: none;
     animation: icon 2s infinite;
+    transform-origin: center;
+    transform-box: fill-box;
   }
   #smilep {
     

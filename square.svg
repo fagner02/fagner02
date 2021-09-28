@@ -66,7 +66,7 @@ y="calc(50% - 50px - 60px)"
     transform-origin: center;
     transform-box: fill-box;
     transform-style: preserve-3d;
-    animation: smile 5s infinite linear;
+    animation: smile 15s infinite linear;
   }
   #smile {
     stroke: none;
@@ -144,11 +144,11 @@ y="calc(50% - 50px - 60px)"
       transform: perspective(500px) 
       rotateX(90deg);
     }
-    75% {
+    70% {
       transform: perspective(500px) 
       rotateX(0deg);
     }
-    85% {
+    96% {
       transform: perspective(500px) 
       rotateX(0deg);
     }

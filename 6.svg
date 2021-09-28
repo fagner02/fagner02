@@ -13,8 +13,8 @@ id="null"  width="300" height="300">
  </text> 
  <style>
   @font-face {
-    font-family: fifteen;
-    src: url('Fifteen-Regular.ttf'), roboto;
+    font-family: fifteen, courier;
+    src: url('Fifteen-Regular.ttf');
   } 
   #text {
     font-family: fifteen;

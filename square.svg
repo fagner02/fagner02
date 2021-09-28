@@ -133,7 +133,7 @@ y="calc(50% - 50px - 60px)"
       stroke-dashoffset: 100%;
     }
   }
-  @keyframes icon {
+  @keyframes smile {
     0% {
       transform: rotateX(0deg);
       fill: white;

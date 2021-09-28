@@ -7,8 +7,8 @@ xmlns:xlink="http://www.w3.org/1999/xlink"
 xmlns:psvg="http://www.paintersvg.com/namespace.html" 
 id="null"  width="300" height="300">
  <defs></defs>
- <rect x="calc(50% - 75px)" y="calc(50% - 75px)" 
- id="sqr" width="150px" height="150px" rx="20px"></rect> 
+ <rect x="calc(50% - 100px)" y="calc(50% - 100px)" 
+ id="sqr" width="200px" height="200px" rx="20px"></rect> 
  <text id="text" text-anchor="middle" 
  dominant-baseline="middle" x="50%" y="50%">
    Programmer

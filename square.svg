@@ -62,9 +62,9 @@ y="calc(50% - 50px - 60px)"
     fill: none;
     stroke: white;
     stroke-width: 80px;
-    stroke-dasharray: 2500%;
-    stroke-dashoffset: 2500%;
-    animation: icon 10s infinite linear;
+    Çstroke-dasharray: 2500%;
+    Çstroke-dashoffset: 0;
+    animation: smile 10s infinite linear;
   }
   #smile {
     stroke: none;

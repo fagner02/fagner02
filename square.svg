@@ -10,7 +10,8 @@ id="null"  width="352" height="302">
  <rect id="back" x="calc(50% - (100% / 2))" 
  y="calc(50% - (100% / 2))" fill="none" 
 stroke-width="1" stroke-linejoin="round" 
-stroke="red" width="100%" height="100%" rx="5px"> </rect>
+stroke="red" width="100%" height="100%" 
+rx="5px" ry="5px" stroke-linecap="round"> </rect>
  <text id="text" text-anchor="middle" 
  dominant-baseline="middle" x="50%" y="50%">
    Coding &gt;.&lt;

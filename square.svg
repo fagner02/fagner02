@@ -58,7 +58,7 @@ y="calc(50% - 50px - 60px)"
     font-family: fifteen, courier;
   }
   
-  #bb {
+  #glass {
     fill: none;
     stroke: white;
     stroke-width: 80px;

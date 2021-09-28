@@ -55,7 +55,8 @@ y="calc(50% - 50px - 60px)"
 </svg>
 <text id="text" text-anchor="middle" 
  dominant-baseline="middle" x="50%" y="50%">
-   Coding &gt;.&lt;
+   <tspan x="0" dy="1.2em">Coding</tspan>
+   <tspan x="0" dy="1.2em">&gt;.&lt;</tspan>
  </text> 
  <style>
   @font-face {

@@ -23,7 +23,7 @@ y="calc(50% - 50px - 20px)"
 <g id="bb" transform="translate(0, 512)
  scale(0.1,-0.1)">
 <rect x="calc(50% - 100px)" y="calc(50% - 100px)" 
- id="sq" width="200px" height="200px" rx="20px"></rect> 
+ id="sq" width="200pt" height="200pt" rx="20px"></rect> 
 
 <path d="M425 3634 c-104 -12 -196 -23 -202 -23 -10 -1 -13 -40 -13 -161 0
 -120 3 -162 13 -164 43 -13 105 -39 122 -52 18 -13 21 -31 27 -162 13 -281 23

@@ -74,7 +74,7 @@ y="calc(50% - 50px)"
     stroke: none;
     fill: white;
     
-    çanimation: icon 2s infinite;
+    animation: icon 2s infinite;
   }
   #smilep {
     
@@ -122,9 +122,11 @@ y="calc(50% - 50px)"
   }
   @keyframes icon {
     0% {
-      fill: transparent;
+      transform: rotateY(0deg)
+      fill: white;
     }
     100% {
+transform: rotateY(90deg)
       fill: white;
     }
   }

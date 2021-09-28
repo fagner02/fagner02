@@ -13,6 +13,7 @@ id="null"  width="352" height="302">
  Q 1 301, 1 296 L 1 6 Z"
 stroke-width="0.5" stroke="white" fill="none"
 />
+<!--
  <svg id="glass" x="calc(50% - 50px)"
 y="calc(50% - 50px - 60px)"
  width="350" height="350" 
@@ -53,6 +54,7 @@ y="calc(50% - 50px - 60px)"
 </g>
 
 </svg>
+-->
 <text id="text" text-anchor="middle" 
  dominant-baseline="middle" x="50%" y="50%">
    <tspan id="emote" x="50%" dy="2ch">😎</tspan>

@@ -21,9 +21,11 @@ stroke-width="0.5" stroke="white" fill="none"
   @font-face {
     font-family: fifteen;
     src: url('/Fifteen-Regular.ttf');
-  } 
+  }
+  * {
+    font-family: courier;
+  }
   #text {
-    font-family: fifteen;
     font-size: 30px;
     font-weight: 900;
     fill: none;
@@ -36,11 +38,7 @@ stroke-width="0.5" stroke="white" fill="none"
     transform-style: preserve-3d;
     transform-box: fill-box;
   }
-  * {
-    font-family: fifteen;
-  }
   #sqr {
-    font-family: fifteen;
     fill: steelblue;
     transform-origin: center;
     transform-box: fill-box;

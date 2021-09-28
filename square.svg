@@ -121,16 +121,16 @@ y="calc(50% - 50px - 60px)"
   }
   @keyframes icon {
     0% {
-      stroke-dashoffset: 400%;
+      stroke-dashoffset: 2500%;
     }
     50% {
-      stroke-dashoffset: 400%;
+      stroke-dashoffset: 2500%;
     }
     75% {
       stroke-dashoffset: 0;
     }
     100% {
-      stroke-dashoffset: 200%;
+      stroke-dashoffset: 2500%;
     }
   }
   @keyframes smile {

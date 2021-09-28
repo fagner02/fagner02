@@ -137,10 +137,10 @@ y="calc(50% - 50px - 60px)"
   }
   @keyframes smile {
     0% {
-      transform: perspective(500px) rotateX(0deg);
+      transform: perspective(500px) rotateY(90deg);
     }
     100% {
-      transform: perspective(500px) rotateX(90deg);
+      transform: perspective(500px) rotateY(0deg);
     }
   }
  </style>

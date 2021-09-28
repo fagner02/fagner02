@@ -23,7 +23,7 @@ stroke-width="0.5" stroke="white" fill="none"
     src: url('/Fifteen-Regular.ttf');
   }
   * {
-    font-family: courier;
+    font-family: fifteen, courier;
   }
   #text {
     font-size: 30px;

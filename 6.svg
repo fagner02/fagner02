@@ -2,10 +2,13 @@
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Created with PainterSVG V3.74 -->
 
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:psvg="http://www.paintersvg.com/namespace.html" id="null"  width="559.369" height="793.6992" viewBox="0 0 559.369 793.6992">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink" 
+xmlns:psvg="http://www.paintersvg.com/namespace.html" 
+id="null"  width="300" height="300">
  <defs></defs>
- <rect x="calc(50% - 50px)" y="calc(50% - 50px)" 
- id="sqr" width="100px" height="100px" rx="20px"></rect> 
+ <rect x="calc(50% - 75px)" y="calc(50% - 75px)" 
+ id="sqr" width="150px" height="150px" rx="20px"></rect> 
  <text id="text" text-anchor="middle" 
  dominant-baseline="middle" x="50%" y="50%">
    Programmer
@@ -20,7 +23,7 @@
     font-size: 30px;
     font-weight: 900;
     fill: none;
-    stroke: white; /steelblue;
+    stroke: white;
     stroke-width: 1px;
     stroke-dasharray: 100;
     stroke-dashoffset: 100;

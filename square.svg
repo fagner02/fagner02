@@ -19,7 +19,7 @@ stroke-width="0.5" stroke="white" fill="none"
  </text> 
  <style>
   @font-face {
-    font-family: fifteen, courier;
+    font-family: fifteen;
     src: url('Fifteen-Regular.ttf');
   } 
   #back {

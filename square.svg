@@ -64,7 +64,7 @@ y="calc(50% - 50px - 60px)"
     stroke-width: 80px;
     stroke-dasharray: 400%;
     stroke-dashoffset: 400%;
-    animation: icon 10s infinite linear;
+    Manimation: icon 10s infinite linear;
   }
   #smile {
     stroke: none;

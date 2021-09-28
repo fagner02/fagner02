@@ -62,8 +62,8 @@ y="calc(50% - 50px - 60px)"
     fill: none;
     stroke: white;
     stroke-width: 80px;
-    stroke-dasharray: 2500%;
-    stroke-dashoffset: 2500%;
+    stroke-dasharray: 2000%;
+    stroke-dashoffset: 2000%;
     Manimation: icon 10s infinite linear;
   }
   #smile {
@@ -121,16 +121,16 @@ y="calc(50% - 50px - 60px)"
   }
   @keyframes icon {
     0% {
-      stroke-dashoffset: 2500%;
+      stroke-dashoffset: 2000%;
     }
     50% {
-      stroke-dashoffset: 2500%;
+      stroke-dashoffset: 2000%;
     }
     75% {
       stroke-dashoffset: 0;
     }
     100% {
-      stroke-dashoffset: 2500%;
+      stroke-dashoffset: 2000%;
     }
   }
   @keyframes smile {

@@ -108,7 +108,7 @@ y="calc(50% - 50px - 60px)"
     fill: none;
     
     stroke: white;
-    stroke-width: 1px;
+    stroke-width: 0.5px;
     stroke-dasharray: 100%;
     stroke-dashoffset: 100%;
     animation: text1 10s infinite linear;

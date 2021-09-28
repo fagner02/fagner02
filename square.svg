@@ -47,7 +47,7 @@ stroke-width="0.7" stroke="white" fill="none"
 />
 
  <svg id="glass" x="calc(50% - 50px)"
-y="calc(50% - 50px - 50px)"
+y="calc(50% - 50px - 30px)"
  width="350" height="350" 
  viewBox="0 0 1792 1792"
  preserveAspectRatio="xMidYMid meet">
@@ -98,7 +98,7 @@ y="calc(50% - 50px - 50px)"
         href="https://github.com/fagner02/fagner02/blob/042da7ef9ef951689813670e409e1a5609ea4d6e/sunglasses.png" width="3ch"> </image>
  -->
 <text id="text" text-anchor="middle" 
- dominant-baseline="middle" x="50%" y="55%">
+ dominant-baseline="middle" x="50%" y="60%">
   Coding
    <!--<tspan id="emote" x="50%" dy="3ch">😎</tspan>
    <tspan id="span" x="50%" dy="3ch">Coding</tspan>
@@ -114,7 +114,7 @@ y="calc(50% - 50px - 50px)"
     src: url('https://github.com/fagner02/fagner02/blob/9324a5ceb74c7ec02678b6aebc72f341345a7b30/Fifteen-Regular.ttf?raw=true');
   }
   * {
-    font-family: "Super", courier;
+    font-family: fifteen, roboto;
   }
   
   #glass {

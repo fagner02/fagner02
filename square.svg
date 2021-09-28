@@ -66,7 +66,6 @@ y="calc(50% - 50px - 60px)"
   #smile {
     stroke: white;
     fill: none;
-    
     animation: icon 2s infinite;
   }
   #smilep {
@@ -115,11 +114,11 @@ y="calc(50% - 50px - 60px)"
   }
   @keyframes icon {
     0% {
-      transform: rotateY(0deg)
+      transform: rotateY(0deg);
       fill: white;
     }
     100% {
-transform: rotateY(90deg)
+      transform: rotateY(90deg);
       fill: white;
     }
   }

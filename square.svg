@@ -62,14 +62,14 @@ y="calc(50% - 50px - 60px)"
     fill: none;
     stroke: white;
     stroke-width: 80px;
-    stroke-dasharray: 100%;
-    stroke-dashoffset: 100%;
+    stroke-dasharray: 200%;
+    stroke-dashoffset: 200%;
     animation: icon 10s infinite linear;
   }
   #smile {
     stroke: none;
     fill: white;
-    animation: icon 0.3s infinite;
+    çanimation: icon 0.3s infinite;
     transform-origin: left;
     transform-box: fill-box;
     transform-style: preserve-3d;
@@ -121,16 +121,16 @@ y="calc(50% - 50px - 60px)"
   }
   @keyframes icon {
     0% {
-      stroke-dashoffset: 100%;
+      stroke-dashoffset: 200%;
     }
     50% {
-      stroke-dashoffset: 100%;
+      stroke-dashoffset: 200%;
     }
     75% {
       stroke-dashoffset: 0;
     }
     100% {
-      stroke-dashoffset: 100%;
+      stroke-dashoffset: 200%;
     }
   }
   @keyframes smile {

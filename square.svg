@@ -19,7 +19,8 @@ y="calc(50% - 50px - 60px)"
  viewBox="0 0 512 512"
  preserveAspectRatio="xMidYMid meet">
 
-<g id="bb" transform="translate(0, 512)
+<g id="bb">
+<g transform="translate(0, 512)
  scale(0.1,-0.1)">
 
 <path d="M425 3634 c-104 -12 -196 -23 -202 -23 -10 -1 -13 -40 -13 -161 0
@@ -41,7 +42,7 @@ y="calc(50% - 50px - 60px)"
 160 204 208 32 76 11 163 -44 186 -36 14 -62 11 -196 -23 -242 -62 -325 -71
 -650 -72 -285 0 -307 2 -445 28 -80 15 -185 38 -235 52 -105 29 -140 31 -177
 8z"/>
-
+</g>
 </g>
 
 </svg>
@@ -58,7 +59,7 @@ y="calc(50% - 50px - 60px)"
     font-family: fifteen, courier;
   }
   
-  #glass {
+  #bb {
     fill: none;
     stroke: white;
     stroke-width: 80px;

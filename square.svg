@@ -64,6 +64,9 @@ y="calc(50% - 50px - 60px)"
     stroke-width: 80px;
     Çstroke-dasharray: 2500%;
     Çstroke-dashoffset: 0;
+    transform-origin: bottom;
+    transform-box: fill-box;
+    transform-style: preserve-3d;
     animation: smile 1s infinite linear;
   }
   #smile {

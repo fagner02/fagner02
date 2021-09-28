@@ -3,26 +3,68 @@
 <!-- Created with PainterSVG V3.74 -->
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:psvg="http://www.paintersvg.com/namespace.html" id="null"  width="559.369" height="793.6992" viewBox="0 0 559.369 793.6992">
-<script type="text/javascript"> <![CDATA[
-  document.querySelector("#path2").style.fill = 'pink';
-]]>
-</script>
-<defs></defs>
-<path onclick="clc(e)" id="path2" d=" M 225.0501,75.3476 C 154.8617,71.5516 88.3585,128.6649 84.2452,181.9434 77.1255,271.9683 122.4408,230.9821 125.8562,377.3183 117.4488,464.2818 252.5548,522.4796 302.0957,411.9579 341.3483,299.5015 389.2567,315.0888 391.9541,201.234 385.8265,127.9312 311.1251,77.5892 225.0501,75.3476 Z" style="fill-opacity:1;stroke:#5F72B0;stroke-width:2;stroke-opacity:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:0;"/>
-<style>
-  #path2 {
-    fill: white;
-    
-    animation: rotation 2s infinite alternate;
+ <defs></defs>
+ <rect x="calc(50% - 50px)" y="calc(50% - 50px)" 
+ id="sqr" width="100px" height="100px" rx="20px"></rect> 
+ <text id="text" text-anchor="middle" 
+ dominant-baseline="middle" x="50%" y="50%">
+   bitch 
+ </text> 
+ <style>
+  @font-face {
+    font-family: fifteen;
+    src: url('Fifteen-Regular.ttf');
+  } 
+  #text {
+    font-family: fifteen;
+    font-size: 30px;
+    font-weight: 900;
+    fill: none;
+    stroke: white; /steelblue;
+    stroke-width: 1px;
+    stroke-dasharray: 100;
+    stroke-dashoffset: 100;
+    animation: text1 10s infinite linear;
+    transform-origin: bottom;
+    transform-style: preserve-3d;
+    transform-box: fill-box;
+  }
+  #sqr {
+    font-family: fifteen;
+    fill: steelblue;
+    transform-origin: center;
+    transform-box: fill-box;
+    animation: rotation 5s infinite linear;
   }
   @keyframes rotation {
     0% {
       transform: rotate(0deg);
     }
     100% {
-      transform: rotate(40deg);
+      transform: rotate(90deg);
     }
   }
-</style>
-
+  @keyframes text1 {
+    0% {
+      stroke-dashoffset: 100;
+    }
+    50% {
+      stroke-dashoffset: 100;
+    }
+    75% {
+      stroke-dashoffset: 0;
+    }
+    100% {
+      stroke-dashoffset: 100;
+    }
+  }
+  @keyframes text2 {
+    0% {
+      transform: rotateX(0deg);
+    }
+    100% {
+      transform: rotateX(0deg);
+    }
+  }
+ </style>
 </svg>

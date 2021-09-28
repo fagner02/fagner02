@@ -102,7 +102,7 @@ y="calc(50% - 50px - 60px)"
     transform-style: preserve-3d;
     transform-box: fill-box;
   }
-  emote {
+  #emote {
     opacity: 0;
     animation: smile 10s infinite linear;
   }

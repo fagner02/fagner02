@@ -20,7 +20,7 @@ y="calc(50% - 50px - 60px)"
  preserveAspectRatio="xMidYMid meet">
 
 <g id="bb">
-<g transform="translate(0, 0)
+<g transform="translate(0, 512)
  scale(0.1,-0.1)">
 
 <path d="M425 3634 c-104 -12 -196 -23 -202 -23 -10 -1 -13 -40 -13 -161 0

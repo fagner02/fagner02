@@ -9,8 +9,8 @@ id="null"  width="352" height="302">
  id="sqr" width="200px" height="200px" rx="20px"></rect> 
  <rect id="back" x="calc(50% - (100% / 2))" 
  y="calc(50% - (100% / 2))" fill="none" 
-stroke="black" stroke-width="1px"
-width="100%" height="100%" rx="4px"> </rect>
+
+width="100%" height="100%" > </rect>
  <text id="text" text-anchor="middle" 
  dominant-baseline="middle" x="50%" y="50%">
    Coding &gt;.&lt;
@@ -20,6 +20,10 @@ width="100%" height="100%" rx="4px"> </rect>
     font-family: fifteen, courier;
     src: url('Fifteen-Regular.ttf');
   } 
+  #back {
+    border-radius: 5px;
+    border: 1px solid red;
+  }
   #text {
     font-family: fifteen;
     font-size: 30px;

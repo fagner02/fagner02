@@ -15,7 +15,7 @@ rx="5px" ry="5px" > </rect>
  L 350 295 Q 350 300, 345 300 L 5 300
  Q 0 295 L 0 5 Z"
 stroke-width="1" stroke-linejoin="round" 
-stroke="red" stroke-linecap="round"
+stroke="blue" stroke-linecap="round"
 fill="none"
 />
 <text id="text" text-anchor="middle" 

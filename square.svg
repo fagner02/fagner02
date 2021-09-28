@@ -11,7 +11,7 @@ id="null"  width="352" height="302">
  <path d="M 1 6 Q 1 1, 6 1 L 346 1 Q 351 1, 351 6
  L 351 296 Q 351 301, 346 301 L 6 301
  Q 1 301, 1 296 L 1 6 Z"
-stroke-width="1"
+stroke-width="0.5"
 stroke="white"
 fill="none"
 />

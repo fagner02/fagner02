@@ -13,7 +13,7 @@ id="null"  width="352" height="302">
 rx="5px" ry="5px" > </rect>
  <path d="M 0 5 Q 0 0, 5 0 L 345 0 Q 350 0, 350 5
  L 350 295 Q 350 300, 345 300 L 5 300
- Q 0 295 L 0 5 Z"
+ Q 0 300, 0 295 L 0 5 Z"
 stroke-width="1" stroke-linejoin="round" 
 stroke="blue" stroke-linecap="round"
 fill="none"

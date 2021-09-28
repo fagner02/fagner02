@@ -64,7 +64,7 @@ y="calc(50% - 50px - 60px)"
     stroke-width: 80px;
   }
   #smile {
-    stroke: none;
+    stroke: white;
     fill: none;
     
     animation: icon 2s infinite;

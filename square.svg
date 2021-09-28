@@ -10,7 +10,7 @@ id="null"  width="352" height="302">
           flood-color="#489880" flood-opacity="0.8"/>
    </filter>
    <filter id="shadow1">
-      <feDropShadow height="150%" width="150%" dx="0" dy="0" stdDeviation="0.3"
+      <feDropShadow height="150%" width="150%" dx="0" dy="0" stdDeviation="1"
           flood-color="orchid" flood-opacity="1"/>
    </filter>
  </defs>
@@ -108,7 +108,7 @@ y="calc(50% - 50px - 60px)"
     fill: none;
     
     stroke: white;
-    stroke-width: 0.5px;
+    stroke-width: 1px;
     stroke-dasharray: 100%;
     stroke-dashoffset: 100%;
     animation: text1 10s infinite linear;

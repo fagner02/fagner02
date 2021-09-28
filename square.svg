@@ -63,7 +63,7 @@ y="calc(50% - 50px - 60px)"
     fill: none;
     stroke: white;
     stroke-width: 80px;
-    transform-origin: bottom;
+    transform-origin: center;
     transform-box: fill-box;
     transform-style: preserve-3d;
     animation: smile 1s infinite linear;
@@ -137,10 +137,10 @@ y="calc(50% - 50px - 60px)"
   }
   @keyframes smile {
     0% {
-      transform: rotateX(0deg);
+      transform: perspective(500px) rotateX(0deg);
     }
     100% {
-      transform: rotateX(90deg);
+      transform: perspective(500px) rotateX(90deg);
     }
   }
  </style>

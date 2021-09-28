@@ -97,7 +97,7 @@ y="calc(50% - 50px - 60px)"
     font-size: 30px;
     font-weight: 900;
     fill: none;
-    stroke: white;
+    stroke: orchid;
     stroke-width: 1px;
     stroke-dasharray: 100%;
     stroke-dashoffset: 100%;

@@ -64,6 +64,7 @@ y="calc(50% - 50px - 60px)"
     stroke: white;
     stroke-width: 80px;
     transform-origin: center;
+    transform-box: content-box;
     transform-style: preserve-3d;
     animation: smile 5s infinite linear;
   }

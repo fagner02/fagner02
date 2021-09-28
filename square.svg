@@ -34,7 +34,7 @@ stroke-width="0.7" stroke="white" fill="none"
 />
 
  <svg id="glass" x="calc(50% - 50px)"
-y="calc(50% - 50px - 60px)"
+y="calc(50% - 50px - 50px)"
  width="350" height="350" 
  viewBox="0 0 1792 1792"
  preserveAspectRatio="xMidYMid meet">
@@ -78,7 +78,7 @@ y="calc(50% - 50px - 60px)"
         href="https://github.com/fagner02/fagner02/blob/042da7ef9ef951689813670e409e1a5609ea4d6e/sunglasses.png" width="3ch"> </image>
  -->
 <text id="text" text-anchor="middle" 
- dominant-baseline="middle" x="50%" y="50%">
+ dominant-baseline="middle" x="50%" y="55%">
   Coding
    <!--<tspan id="emote" x="50%" dy="3ch">😎</tspan>
    <tspan id="span" x="50%" dy="3ch">Coding</tspan>

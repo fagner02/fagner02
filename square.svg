@@ -11,9 +11,9 @@ id="null"  width="352" height="302">
 
  </style>
    <linearGradient id="gradient" x1="0" x2="0" y1="0" y2="1">
-        <stop offset="0%" stop-color="#489880"/>
-        <stop offset="50%" stop-color="transparent"/>
-        <stop offset="100%" stop-color="transparent"/>
+        <stop offset="0%" stop-color="#D88000"/>
+        <stop offset="50%" stop-color="#907818"/>
+        <stop offset="100%" stop-color="#907818"/>
    </linearGradient>
    <filter id="shadow">
       <feDropShadow dx="0" dy="0" stdDeviation="10"

@@ -114,7 +114,7 @@ y="calc(50% - 50px - 60px)"
     50% {
       stroke-dashoffset: 100%;
     }
-    75% {
+    80% {
       stroke-dashoffset: 0;
     }
     100% {

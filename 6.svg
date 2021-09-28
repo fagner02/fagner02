@@ -11,7 +11,7 @@
 <style>
   #path2 {
     fill: white;
-    transition: fill 1s;
+    
     animation: rotation 2s infinite alternate;
   }
   @keyframes rotation {

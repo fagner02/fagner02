@@ -19,7 +19,7 @@ stroke-width="0.5" stroke="white" fill="none"
  preserveAspectRatio="xMidYMid meet"
  >
 
-<g id="bb"transform="translate(0, 512)
+<g id="bb" transform="translate(0, 512)
  scale(0.1,-0.1)"
 fill="none" stroke="black">
 <path d="M425 3634 c-104 -12 -196 -23 -202 -23 -10 -1 -13 -40 -13 -161 0

@@ -89,7 +89,7 @@ y="calc(50% - 50px - 60px)"
     stroke-dasharray: 100%;
     stroke-dashoffset: 100%;
     animation: text1 10s infinite linear;
-    transform-origin: bottom;
+    transform-origin: center;
     transform-style: preserve-3d;
     transform-box: fill-box;
   }
@@ -138,19 +138,19 @@ y="calc(50% - 50px - 60px)"
   @keyframes smile {
     0% {
       transform: perspective(500px) 
-      rotateY(90deg);
+      rotateX(90deg);
     }
     50% {
       transform: perspective(500px) 
-      rotateY(90deg);
+      rotateX(90deg);
     }
     75% {
       transform: perspective(500px) 
-      rotateY(0deg);
+      rotateX(0deg);
     }
     100% {
       transform: perspective(500px)
-      rotateY(-360deg);
+      rotateX(-360deg);
     }
   }
  </style>

@@ -13,7 +13,8 @@ id="null"  width="352" height="302">
  Q 1 301, 1 296 L 1 6 Z"
 stroke-width="0.5" stroke="white" fill="none"
 />
- <svg transform="translateX(500px)"
+ <svg id="glass" transform="translateX(500px)"
+
  width="100" height="100" 
  viewBox="0 0 512 512"
  preserveAspectRatio="xMidYMid meet"
@@ -55,6 +56,9 @@ fill="none" stroke="black" stroke-width="100">
   }
   * {
     font-family: fifteen, courier;
+  }
+  #glass {
+    border: 1px solid red;
   }
   #text {
     font-size: 30px;

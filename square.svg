@@ -108,15 +108,15 @@ y="calc(50% - 50px - 50px)"
   }
   #smile {
     stroke: none;
-    fill: white;
+    fill: black;
     çanimation: icon 0.3s infinite;
     transform-origin: left;
     transform-box: fill-box;
     transform-style: preserve-3d;
     
   }
-  #smilep {
-    
+  #glasses {
+    fill: hsl(0 0% 10%);
   }
   #face {
     fill: url(#gradient);

@@ -67,8 +67,8 @@ y="calc(50% - 50px - 60px)"
     animation: icon 10s infinite linear;
   }
   #smile {
-    stroke: white;
-    fill: none;
+    stroke: none;
+    fill: white;
     animation: icon 0.3s infinite;
     transform-origin: left;
     transform-box: fill-box;

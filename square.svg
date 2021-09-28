@@ -76,10 +76,11 @@ width="100px" height="100px">
   }
   #smile {
     stroke: none;
+transform: scale(10);
     animation: icon 2s infinite;
   }
   #smilep {
-    transform: scale(10px);
+    transform: scale(10);
   }
   #text {
     font-size: 30px;

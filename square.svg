@@ -14,7 +14,7 @@ id="null"  width="352" height="302">
 stroke-width="0.5" stroke="white" fill="none"
 />
  <svg id="glass" x="calc(50% - 50px)"
-y="calc(50% - 50px)"
+y="calc(50% - 50px - 20px)"
  width="100" height="100" 
  viewBox="0 0 512 512"
  preserveAspectRatio="xMidYMid meet"
@@ -22,7 +22,7 @@ y="calc(50% - 50px)"
 
 <g id="bb" transform="translate(0, 512)
  scale(0.1,-0.1)"
-fill="none" stroke="black" stroke-width="100">
+fill="none" stroke="white" stroke-width="80">
 <path d="M425 3634 c-104 -12 -196 -23 -202 -23 -10 -1 -13 -40 -13 -161 0
 -120 3 -162 13 -164 43 -13 105 -39 122 -52 18 -13 21 -31 27 -162 13 -281 23
 -340 86 -507 80 -214 263 -374 494 -430 226 -54 554 -35 786 47 328 115 533

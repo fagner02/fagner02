@@ -19,7 +19,9 @@ y="calc(50% - 50px - 20px)"
  viewBox="0 0 512 512"
  preserveAspectRatio="xMidYMid meet"
  >
-<svg width="100px" height="100px">
+<svg x="calc(50% - 50px)"
+y="calc(50% - 50px)"
+width="100px" height="100px">
 <rect x="calc(50%)" y="calc(50%)" 
  fill="white" width="100px" height="100px"></rect> 
 </svg>

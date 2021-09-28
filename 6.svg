@@ -25,8 +25,8 @@ id="null"  width="300" height="300">
     fill: none;
     stroke: white;
     stroke-width: 1px;
-    stroke-dasharray: 100;
-    stroke-dashoffset: 100;
+    stroke-dasharray: 100%;
+    stroke-dashoffset: 100%;
     animation: text1 10s infinite linear;
     transform-origin: bottom;
     transform-style: preserve-3d;
@@ -49,16 +49,16 @@ id="null"  width="300" height="300">
   }
   @keyframes text1 {
     0% {
-      stroke-dashoffset: 100;
+      stroke-dashoffset: 100%;
     }
     50% {
-      stroke-dashoffset: 100;
+      stroke-dashoffset: 100%;
     }
     75% {
       stroke-dashoffset: 0;
     }
     100% {
-      stroke-dashoffset: 100;
+      stroke-dashoffset: 100%;
     }
   }
   @keyframes text2 {

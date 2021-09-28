@@ -113,12 +113,13 @@ y="calc(50% - 50px - 60px)"
   }
   #emote {
     opacity: 0;
+    filter: url(#shadow);
     font-size: 60px;
     animation: smile 10s infinite linear;
   }
   #sqr {
     fill: #203850;
-    filter: url(#shadow);
+    
     transform-origin: center;
     transform-box: fill-box;
     animation: rotation 5s infinite linear;

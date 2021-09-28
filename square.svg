@@ -3,7 +3,7 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg"
 xmlns:xlink="http://www.w3.org/1999/xlink" 
 xmlns:psvg="http://www.paintersvg.com/namespace.html" 
-id="null"  width="350" height="300">
+id="null"  width="352" height="302">
  <defs></defs>
  <rect x="calc(50% - 100px)" y="calc(50% - 100px)" 
  id="sqr" width="200px" height="200px" rx="20px"></rect> 

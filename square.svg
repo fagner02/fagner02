@@ -10,7 +10,7 @@ id="null"  width="352" height="302">
           flood-color="#489880" flood-opacity="0.8"/>
    </filter>
    <filter id="shadow1">
-      <feDropShadow dx="0" dy="0" stdDeviation="0.3"
+      <feDropShadow height="150%" width="150%" dx="0" dy="0" stdDeviation="0.3"
           flood-color="orchid" flood-opacity="1"/>
    </filter>
  </defs>

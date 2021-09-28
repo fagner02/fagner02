@@ -64,7 +64,7 @@ y="calc(50% - 50px - 60px)"
     stroke: white;
     stroke-width: 80px;
     transform-origin: center;
-    tçransform-box: fill-box;
+    transform-box: fill-box;
     transform-style: preserve-3d;
     animation: smile 1s infinite linear;
   }

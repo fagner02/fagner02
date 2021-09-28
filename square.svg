@@ -64,9 +64,7 @@ y="calc(50% - 50px)"
   * {
     font-family: fifteen, courier;
   }
-  #sb {
-    clip-path: url(#smilep);
-  }
+  
   #glass {
     fill: none;
     stroke: white;

@@ -121,7 +121,7 @@ y="calc(50% - 50px - 60px)"
       fill: white;
     }
     100% {
-      transform: rotateX(-270deg);
+      transform: rotateX(-90deg);
       fill: white;
     }
   }

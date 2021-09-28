@@ -78,7 +78,7 @@ y="calc(50% - 50px)"
     çanimation: icon 2s infinite;
   }
   #smilep {
-    transform: scale(10);
+    transform: scale(1);
   }
   #text {
     font-size: 30px;

@@ -59,12 +59,12 @@ y="calc(50% - 50px - 60px)"
     font-family: fifteen, courier;
   }
   
-  #glass {
+  #bb {
     fill: none;
     stroke: white;
     stroke-width: 80px;
     transform-origin: center;
-    transform-box: fill-box;
+    tçransform-box: fill-box;
     transform-style: preserve-3d;
     animation: smile 1s infinite linear;
   }

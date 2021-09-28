@@ -28,8 +28,7 @@ fill="none"
     src: url('Fifteen-Regular.ttf');
   } 
   #back {
-    border-radius: 5px;
-    border: 1px solid red;
+    
   }
   #text {
     font-family: fifteen;

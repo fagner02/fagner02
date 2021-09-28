@@ -112,7 +112,7 @@ y="calc(50% - 50px - 60px)"
     animation: smile 10s infinite linear;
   }
   #sqr {
-    fill: hsla(166, 87%, 48%, 1);
+    fill: hsl(204.58 100% 16.27%);
     transform-origin: center;
     transform-box: fill-box;
     animation: rotation 5s infinite linear;

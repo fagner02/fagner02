@@ -92,7 +92,7 @@ y="calc(50% - 50px - 60px)"
   #text {
     font-size: 30px;
     font-weight: 900;
-    fill: white;
+    fill: none;
     stroke: white;
     stroke-width: 1px;
     stroke-dasharray: 100%;

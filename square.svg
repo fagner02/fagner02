@@ -149,7 +149,7 @@ y="calc(50% - 50px - 60px)"
     }
     100% {
       transform: perspective(500px)
-      rotateY(-180deg);
+      rotateY(360deg);
     }
   }
  </style>

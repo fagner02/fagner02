@@ -137,6 +137,7 @@ y="calc(50% - 50px - 60px)"
   }
   @keyframes smile {
     0% {
+      fill: transparent;
       transform: perspective(500px) 
       rotateX(90deg);
     }
@@ -155,6 +156,23 @@ y="calc(50% - 50px - 60px)"
     100% {
       transform: perspective(500px)
       rotateX(-90deg);
+    }
+  }
+  @keyframes smile {
+    0% {
+      fill: transparent;
+    }
+    60% {
+      fill: transparent;
+    }
+    62% {
+      fill: white;
+    }
+    98% {
+      fill: white;
+    }
+    100% {
+      fill: transparent;
     }
   }
  </style>

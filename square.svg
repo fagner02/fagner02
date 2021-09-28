@@ -36,6 +36,9 @@ stroke-width="0.5" stroke="white" fill="none"
     transform-style: preserve-3d;
     transform-box: fill-box;
   }
+  * {
+    font-family: fifteen;
+  }
   #sqr {
     font-family: fifteen;
     fill: steelblue;

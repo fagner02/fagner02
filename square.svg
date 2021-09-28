@@ -56,9 +56,9 @@ y="calc(50% - 50px - 60px)"
 </svg>
 -->
  <text id="text" text-anchor="middle" 
- dominant-baseline="middle" x="50%" y="30%">
-   <tspan id="emote" x="50%" dy="2ch">😎</tspan>
-   <tspan x="50%" dy="2ch">Coding</tspan>
+ dominant-baseline="middle" x="50%" y="10%">
+   <tspan id="emote" x="50%" dy="4ch">😎</tspan>
+   <tspan x="50%" dy="4ch">Coding</tspan>
    <!--
      <tspan x="50%" dy="2ch">&gt;.&lt;</tspan>
    -->

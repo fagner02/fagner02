@@ -73,8 +73,9 @@ y="calc(50% - 50px)"
   }
   #smile {
     stroke: none;
+    fill: white;
     transform: scale(1);
-    animation: icon 2s infinite;
+    çanimation: icon 2s infinite;
   }
   #smilep {
     transform: scale(10);

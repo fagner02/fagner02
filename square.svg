@@ -140,11 +140,11 @@ y="calc(50% - 50px - 60px)"
       transform: perspective(500px) 
       rotateX(90deg);
     }
-    50% {
+    66% {
       transform: perspective(500px) 
       rotateX(90deg);
     }
-    75% {
+    83% {
       transform: perspective(500px) 
       rotateX(0deg);
     }

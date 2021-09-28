@@ -13,7 +13,7 @@ id="null"  width="352" height="302">
  Q 1 301, 1 296 L 1 6 Z"
 stroke-width="0.5" stroke="white" fill="none"
 />
- <svg transform="translateX(50%)"
+ <svg transform="translateX(500px)"
  width="100" height="100" 
  viewBox="0 0 512 512"
  preserveAspectRatio="xMidYMid meet"

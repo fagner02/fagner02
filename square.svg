@@ -99,7 +99,7 @@ y="calc(50% - 50px - 50px)"
   
   #glass {
     fill: none;
-    stroke: white;
+    stroke: none;
     stroke-width: 60px;
     transform-origin: center;
     transform-box: fill-box;

@@ -25,7 +25,7 @@ y="calc(50% - 50px)"
  width="300px" height="300px" fill="white"></rect> 
 
 </svg>
-<clipPath id="smilep"> 
+
 <g id="bb" transform="translate(0, 512)
  scale(0.1,-0.1)">
 
@@ -50,7 +50,6 @@ y="calc(50% - 50px)"
 8z"/>
 
 </g>
-</clipPath>
 
 </svg>
 <text id="text" text-anchor="middle" 

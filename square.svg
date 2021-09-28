@@ -117,11 +117,11 @@ y="calc(50% - 50px - 60px)"
   }
   @keyframes icon {
     0% {
-      transform: rotateY(0deg);
+      transform: rotateX(0deg);
       fill: white;
     }
     100% {
-      transform: rotateY(90deg);
+      transform: rotateX(90deg);
       fill: white;
     }
   }

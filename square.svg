@@ -140,7 +140,7 @@ y="calc(50% - 50px - 60px)"
       transform: rotateX(0deg);
     }
     100% {
-      transform: rotateX(0deg);
+      transform: rotateX(90deg);
     }
   }
  </style>

@@ -4,10 +4,15 @@
 xmlns:xlink="http://www.w3.org/1999/xlink" 
 xmlns:psvg="http://www.paintersvg.com/namespace.html" 
 id="null"  width="352" height="302">
- <defs></defs>
+ <defs>
+   <filter id="shadow">
+      <feDropShadow dx="0" dy="0" stdDeviation="2"
+          flood-color="#489880" flood-opacity="0.5"/>
+   </filter>
+ </defs>
  <rect x="calc(50% - 100px)" y="calc(50% - 100px)" 
  id="sqr" width="200px" height="200px" rx="20px"></rect> 
-
+ 
  <path d="M 1 6 Q 1 1, 6 1 L 346 1 Q 351 1, 351 6
  L 351 296 Q 351 301, 346 301 L 6 301
  Q 1 301, 1 296 L 1 6 Z"

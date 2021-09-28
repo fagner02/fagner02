@@ -101,6 +101,9 @@ y="calc(50% - 50px - 60px)"
     transform-style: preserve-3d;
     transform-box: fill-box;
   }
+  tspan {
+    opacity: 0;
+  }
   #sqr {
     fill: steelblue;
     transform-origin: center;

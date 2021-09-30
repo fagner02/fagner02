@@ -109,10 +109,7 @@ y="calc(50% - 50px - 40px)"
  </text> 
  <style>
   @import url(http://fonts.googleapis.com/earlyaccess/cabinvfbeta.css);
-  @font-face {
-    font-family: fifteen;
-    src: url('');
-  }
+  
   * {
     font-family: 'Cabin VF Beta', sans-serif;
   }

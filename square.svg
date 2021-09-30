@@ -5,24 +5,6 @@ xmlns:xlink="http://www.w3.org/1999/xlink"
 xmlns:psvg="http://www.paintersvg.com/namespace.html" 
 id="null"  width="352" height="302">
  <defs>
-   <style type="text/css">
-
-    @import url('https://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic');
-
- </style>
-   <font>
-
-  <font-face font-family="Super">
-
-    <font-face-src>
-
-      <font-face-uri href="https://github.com/fagner02/fagner02/blob/b2cbbe5213c69079955a8631d75c388d53b8a504/Fifteen-Regular.ttf?raw=true" />
-
-    </font-face-src>
-
-  </font-face>
-
-</font>
    <linearGradient id="gradient" x1="0" x2="0" y1="0" y2="1">
         <stop offset="0%" stop-color="#D88000"/>
         <stop offset="50%" stop-color="yellow"/>
@@ -55,6 +37,7 @@ y="calc(50% - 50px - 40px)"
 <g id="bb">
 <g transform="translate(0, 512)
  scale(0.1,-0.1)">
+
 <path id="face" d="M2325 4770 c-126 -11 -408 -64 -496 -93 -41 -13 -96 -31 -124 -40
 -68 -21 -184 -70 -280 -118 -410 -207 -727 -516 -918 -894 -365 -723 -322
 -1676 106 -2320 362 -546 977 -895 1702 -965 128 -12 372 -12 500 0 135 13
@@ -63,6 +46,7 @@ y="calc(50% - 50px - 40px)"
 -25 67 -45 129 -73 226 -147 366 -297 564 -144 191 -379 400 -583 521 -90 53
 -249 134 -290 147 -22 7 -49 18 -61 25 -11 8 -61 25 -110 40 -49 14 -97 30
 -106 35 -18 10 -279 63 -393 80 -94 14 -458 21 -570 10z"/>
+
 <path id="glasses" fill="white" d="M425 3634 c-104 -12 -196 -23 -202 -23 -10 -1 -13 -40 -13 -161 0
 -120 3 -162 13 -164 43 -13 105 -39 122 -52 18 -13 21 -31 27 -162 13 -281 23
 -340 86 -507 80 -214 263 -374 494 -430 226 -54 554 -35 786 47 328 115 533
@@ -77,14 +61,17 @@ y="calc(50% - 50px - 40px)"
 -16 41 -33 41 -79 0 -46 -19 -67 -95 -105 -79 -40 -111 -82 -124 -162 -17
 -100 -35 -126 -93 -135 -41 -6 -94 24 -109 64 -6 15 -9 65 -6 118 3 76 9 100
 33 143 37 68 113 137 173 155 61 19 145 20 180 1z"/>
+
 <path id="smile" d="M1708 1973 c-49 -31 -63 -105 -32 -178 53 -128 325 -310 544 -366
 176 -44 229 -51 385 -46 129 4 167 9 270 37 134 36 277 99 376 166 81 54 184
 160 204 208 32 76 11 163 -44 186 -36 14 -62 11 -196 -23 -242 -62 -325 -71
 -650 -72 -285 0 -307 2 -445 28 -80 15 -185 38 -235 52 -105 29 -140 31 -177
 8z"/>
+
 <path id="bling1" d="M882 3405 c-96 -30 -190 -126 -219 -224 -21 -72 -20 -178 2 -224 30
 -63 92 -89 149 -62 46 22 65 53 78 128 14 84 44 128 110 159 67 33 107 75 115
 121 5 33 2 41 -35 77 -37 38 -43 40 -98 39 -33 0 -78 -6 -102 -14z"/>
+
 <path id="bling2" d="M3390 3411 c-90 -28 -173 -100 -217 -189 -25 -50 -28 -68 -28 -154 0
 -110 13 -139 79 -172 33 -16 41 -17 73 -5 47 18 74 56 84 119 15 95 41 133
 119 174 78 41 110 78 110 128 0 67 -55 109 -142 107 -29 0 -64 -4 -78 -8z"/>
@@ -93,10 +80,10 @@ y="calc(50% - 50px - 40px)"
 </g>
 
 </svg>
-<!--
+
  <image x="calc(50% - 1.5ch)" y="calc(50% - 1.5ch)"
-        href="https://github.com/fagner02/fagner02/blob/042da7ef9ef951689813670e409e1a5609ea4d6e/sunglasses.png" width="3ch"> </image>
- -->
+        href="https://github.com/fagner02/fagner02/blob/042da7ef9ef951689813670e409e1a5609ea4d6e/sunglasses.png?raw=true" width="3ch"> </image>
+ 
 <text id="text" text-anchor="middle" 
  dominant-baseline="middle" x="50%" y="60%">
   Coding
@@ -108,12 +95,6 @@ y="calc(50% - 50px - 40px)"
    -->
  </text> 
  <style>
-  @import url(http://fonts.googleapis.com/earlyaccess/cabinvfbeta.css);
-  
-  * {
-    font-family: 'Cabin VF Beta', sans-serif;
-  }
-  
   #glass {
     filter: url(#shadow);
     fill: none;

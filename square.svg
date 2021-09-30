@@ -108,13 +108,13 @@ y="calc(50% - 50px - 40px)"
    -->
  </text> 
  <style>
-  
+  @import url(http://fonts.googleapis.com/earlyaccess/cabinvfbeta.css);
   @font-face {
     font-family: fifteen;
-    src: url('https://github.com/fagner02/fagner02/blob/9324a5ceb74c7ec02678b6aebc72f341345a7b30/Fifteen-Regular.ttf?raw=true');
+    src: url('');
   }
   * {
-    font-family: fifteen, roboto;
+    font-family: 'Cabin VF Beta', sans-serif;
   }
   
   #glass {

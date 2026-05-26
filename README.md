@@ -1,5 +1,7 @@
 ## Hello my name's Fagner :)
 
+<img width="352" src="./stats.svg">
+
 <img width="352" src="icons.png"></img>
 
 <img width="352" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fagner02&layout=compact&theme=cobalt"></img>
